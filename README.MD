@@ -12,6 +12,17 @@ May be used additionaly with following packages:
 
 ## Getting started
 
+Install into your project  
+`npm i @ancientbag/create-react-templates --save`  
+
+Install globally  
+`npm i @ancientbag/create-react-templates -g`
+
+Use with npx  
+`npx @ancientbag/create-react-templates ...`
+
+
+
 Create `crt.config.js` in root directory. Specify **components** and **hooks** folders for output:
 
 ```javascript
