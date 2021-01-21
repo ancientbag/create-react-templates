@@ -1,0 +1,39 @@
+{
+  "name": "@ancientbag/create-react-templates",
+  "version": "3.0.0",
+  "description": "CLI to create react elements",
+  "main": "src/index.js",
+  "bin": {
+    "create-react-templates": "bin/create-react-templates"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "create",
+    "react",
+    "elements",
+    "templates"
+  ],
+  "author": "ancientbag",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "cosmiconfig": "^7.0.0",
+    "esm": "^3.2.25",
+    "generate-template-files": "^3.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ancientbag/create-react-templates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ancientbag/create-react-templates/issues"
+  },
+  "homepage": "https://github.com/ancientbag/create-react-templates#readme"
+}
