@@ -2,7 +2,7 @@
 
 This package lets you creating templates with CLI commands.
 
-Using **strictly** with typescript
+Using **strictly** with typescript  
 May be used additionaly with following packages:
 
 - jest
@@ -27,7 +27,7 @@ Use`create-react-templates` providing next flags:
 
 | isRequired | prop | type                      |
 | :--------- | :--- | :------------------------ |
-| **true**   | type | string: `component; hook` |
+| **true**   | type | string: `component / hook` |
 | **true**   | name | string                    |
 
 ##### Example:
