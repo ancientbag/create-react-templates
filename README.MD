@@ -10,6 +10,8 @@ May be used additionaly with following packages:
 - testing-library/react-hook
 - storybook
 
+See generated output files on [codesandbox.io](https://codesandbox.io/s/charming-burnell-q3vhj?file=/src/hooks/index.ts "codesandbox.io")
+
 ## Getting started
 
 Install into your project  
